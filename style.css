@@ -1,0 +1,21 @@
+.container {
+
+background-image: url("background-login.jpg");
+
+}
+.image {
+margin-left: 50px;
+width: 200px;
+}
+h1 {
+text-align: center;	
+font-weight: bold;
+font-family: "Market Sans", Arial, sans-serif;
+}
+ p {
+
+text-align: center;
+font-weight: bold;
+font-family: "Market Sans", Arial, sans-serif;
+
+}
